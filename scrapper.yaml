@@ -1,0 +1,17 @@
+product:
+    css: 'div[data-component-type="s-search-result"]'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        product_name:
+            css: span.a-text-normal
+            type: Text
+        price_whole:
+            css: .a-price-whole
+            type: Text
+            format: PriceWhole
+        price_fraction:
+            css: .a-price-fraction
+            type: Text
+            format: PriceFraction
