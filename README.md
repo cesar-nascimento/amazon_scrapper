@@ -1,13 +1,13 @@
-#Web Scrapper Simples
+# Web Scrapper Simples
 
-##Instalação: 
+## Instalação: 
 
 1. Clonar o repositório:
     * `git clone https://github.com/cesar-nascimento/amazon_scrapper.git`
 1. Instalar "requirements.txt":
     * `pip install -r requirements.txt`
 
-##Utilização
+## Utilização
 Para buscar outros produtos é necessário mudar o valor da variável "query".
 
 Para buscar na Amazon.com em vez da Amazon.com.br basta remover o par chave/valor
